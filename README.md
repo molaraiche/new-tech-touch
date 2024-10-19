@@ -11,8 +11,7 @@ You can install it with:
 ```bash
 npm install react-toastify
 
-
+```
 
 
 This project was created by [Mohamed](https://www.molaraiche.com/). You can view more of my work and projects on my portfolio.
-```
